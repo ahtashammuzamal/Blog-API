@@ -26,8 +26,8 @@ Backend practice project for a simple blog platform built with Node.js, Express,
 
 ### 1. Clone the repository
 ```bash
-git clone <your-github-url>
-cd blog
+git clone https://github.com/ahtashammuzamal/Blog-API.git
+cd Blog-API
 ```
 
 ### 2. Install dependencies
